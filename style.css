@@ -71,3 +71,13 @@
     display: inline;
     font-weight: 600 !important;
 }
+
+.profile-desc {
+    font-size: 16px;
+}
+
+.stories {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
